@@ -27,7 +27,7 @@ hide:
 
 ---
 
-<h2 align="center"> 推荐语 </h2>
+<h2 align="center"> 大神推荐语 </h2>
 
 !!! quote
 
